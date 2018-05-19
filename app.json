@@ -1,0 +1,12 @@
+{
+    "name": "Node.js API",
+    "description": "Bargainer application API",
+    "repository": "https://github.com/osith/bargainer-api",
+    "logo": "https://vignette.wikia.nocookie.net/transformers/images/b/bc/Autobot_logo.svg/revision/latest?cb=20130503211304",
+    "keywords": [
+        "node",
+        "restful",
+        "api"
+    ],
+    "image": "heroku/nodejs"
+}
